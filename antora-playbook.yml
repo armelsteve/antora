@@ -1,7 +1,7 @@
 site:
   title: My Demo Site
   url: https://my-antora-demo-site.org
-  start_page: antora::index.adoc
+  start_page: component::index.adoc
 content:
   sources:
   - url: https://github.com/armelsteve/antora.git
