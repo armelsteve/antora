@@ -5,8 +5,8 @@ site:
 content:
   sources:
    - url: https://github.com/armelsteve/antora.git
-     start_path: ROOT
      branches: master
+     start_path: component
 
 ui:
   bundle:
