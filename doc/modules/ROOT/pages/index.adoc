@@ -11,7 +11,7 @@ This is an example of how an asciidoc file looks like.
 
 Welcome to my ASCIIDOC
 
-* My favarite text editor is vs code
+* My favorite text editor is vs code
 * I like ubuntu and centos OS
 * This is year 2021
 * Life is good
@@ -22,7 +22,7 @@ NOTE: The cycle is edit, review, and repeat.
 
 This is my lovely puppy _Paris_.
 
-image::/images/img.jpg[]
+image::img.jpg[]
 
 
 
