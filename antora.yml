@@ -1,4 +1,4 @@
 name: component
 title: General
 version: '1.0'
-start_page: ROOT:index.adoc
+start_page: modules:index.adoc
