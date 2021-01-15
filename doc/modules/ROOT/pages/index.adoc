@@ -1,6 +1,6 @@
 = Sample ASCIIDOC Document
 by Armel Gansop <agansop@gmail.com>
-:toc: left
+:toc:
 
 This is an example of how an asciidoc file looks like.
 
