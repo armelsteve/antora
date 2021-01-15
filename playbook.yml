@@ -1,0 +1,13 @@
+site:
+  title: My Demo Site
+  url: https://docs.demo.com
+  start_page: items::index.adoc
+content:
+  sources:
+  - url: /modules/ROOT/items/
+    branches: master
+    start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
