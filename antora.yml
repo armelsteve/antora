@@ -1,4 +1,4 @@
-name: component
-title: General
-version: '1.0'
-start_page: modules:index.adoc
+name: system
+title: System Level
+version: 1.0
+start_page: index.adoc
