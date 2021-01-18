@@ -22,7 +22,7 @@ NOTE: The cycle is edit, review, and repeat.
 
 This is my lovely puppy _Paris_.
 
-image::img.jpg[]
+image::img.png[]
 
 
 
