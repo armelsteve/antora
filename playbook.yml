@@ -1,0 +1,14 @@
+site:
+  title: My Demo Site
+  url: https://my-antora-demo-site.org
+  start_page: system::index.adoc
+content:
+  sources:
+   - url: https://github.com/armelsteve/antora.git
+     start_path: doc
+     branches: master
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
